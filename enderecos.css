@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.campos{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    height: 60%;
+    padding-left: 50px;
+
+}
